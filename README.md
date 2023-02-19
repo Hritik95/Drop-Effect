@@ -1,7 +1,7 @@
 
 # Drop Effect
 
-Drop Effect using css with "DROP" text.
+Drop Effect using css with "DROP" text. Click Here to see -> https://hritik95.github.io/Drop-Effect/
 
 ## Language Used
 
